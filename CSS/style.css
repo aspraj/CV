@@ -1,0 +1,21 @@
+
+
+        body {
+            background-color: rgb(255, 255, 255);
+        }
+        hr {
+            border-style: dotted;
+            width: 52px;
+            border-top: 4px dotted;
+            border-color: rgb(231, 234, 237);
+        }
+        h1,h3
+        {
+           color: #66BFBF;
+        }
+        .circular {
+            clip-path: circle(90px);
+        }
+        #popularsev{
+            font-style:inherit;
+        }
